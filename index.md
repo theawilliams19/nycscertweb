@@ -1,3 +1,11 @@
+## Théa Williams - Hunter Computer Science Education Program Portfolio
+
+*[Conway's Game of Life](https://github.com/hunter-teacher-cert/cohort-3-summer-work-theawilliams19/blob/master/programming/3/Cgol.java)
+
+*[nth Fibonacci number generator](https://github.com/hunter-teacher-cert/cohort-3-summer-work-theawilliams19/blob/master/programming/5/Fib.java)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/theawilliams19/nycscertweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
